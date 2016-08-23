@@ -13,6 +13,7 @@ GEM
     ethon (0.9.0)
       ffi (>= 1.3.0)
     ffi (1.9.14)
+    file-utils (0.1.1)
     forwardable-extended (2.6.0)
     html-proofer (3.0.6)
       activesupport (~> 4.2)
@@ -73,6 +74,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  file-utils
   html-proofer
   jekyll (= 3.2.1)
   minima

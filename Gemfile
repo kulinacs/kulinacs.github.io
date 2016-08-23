@@ -6,3 +6,7 @@ group :test do
   gem 'rake'
   gem 'html-proofer' # Validator
 end
+
+group :deploy do
+  gem 'file-utils'
+end
